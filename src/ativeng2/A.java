@@ -59,6 +59,7 @@ int vaiiiiiii;
         int deu;
         int deye;
         int mudei;
+        int pq;
        
     }
     
