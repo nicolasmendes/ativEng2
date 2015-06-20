@@ -20,6 +20,7 @@ public class A {
     }
     int a;
     int porra;
+    int anem;
 
     private float A2;
 
