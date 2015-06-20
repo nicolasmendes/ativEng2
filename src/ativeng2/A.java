@@ -19,6 +19,7 @@ public class A {
         this.Aramo4 = Aramo4;
     }
     int a;
+    int porra;
 
     private float A2;
 
