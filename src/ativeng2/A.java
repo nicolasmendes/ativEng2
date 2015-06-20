@@ -58,6 +58,7 @@ int vaiiiiiii;
         float result = soma(A1, A2);
         int deu;
         int deye;
+        int mudei;
        
     }
     
