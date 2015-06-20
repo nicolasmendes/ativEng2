@@ -18,6 +18,7 @@ public class A {
     public void setAramo4(String Aramo4) {
         this.Aramo4 = Aramo4;
     }
+    int a;
 
     private float A2;
 
