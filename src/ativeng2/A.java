@@ -21,7 +21,7 @@ public class A {
     int a;
     int porra;
     int anem;
-
+int vaiiiiiii;
     private float A2;
 
     private String A3;
