@@ -44,6 +44,7 @@ public class A {
         A2 = 3;
         float result = soma(A1, A2);
         int eita;
+        int tnc;
        
     }
     
