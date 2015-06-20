@@ -43,6 +43,7 @@ public class A {
         A1 = 2;
         A2 = 3;
         float result = soma(A1, A2);
+        int eita;
        
     }
     
